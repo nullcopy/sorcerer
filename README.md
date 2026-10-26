@@ -140,3 +140,7 @@ Apprentice. While our apprentices won't flood your workshop with water, they
 will faithfully execute your commands through the magic of AI.
 
 Use this power wisely, young sorcerer!
+
+## License
+
+This project is licensed under the [GNU General Public License v3.0 or later](LICENSE) (`GPL-3.0-or-later`).
